@@ -100,6 +100,7 @@ export default function Home () {
                                 </CardContent>
                                 <CardActions>
                                     <Button size="small" href="/fiberglass">View Rates</Button>
+                                    <Button size="small" href="/fiberglass/add">Add Fiberglass Items</Button>
                                 </CardActions>
                             </Card>
                         </Row>

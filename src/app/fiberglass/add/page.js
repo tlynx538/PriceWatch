@@ -30,7 +30,7 @@ export default function add(){
             <ArrowBackIcon/>
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                Add Bearings
+                Add Fiberglass Wire and Sleeve
             </Typography>
             </Toolbar>
         </AppBar>
